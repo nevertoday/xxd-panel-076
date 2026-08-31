@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 076
+# 🦁 XXD Panel 076｜Macaron Crayon
 
 ### Turn photographs into humanist travel memories with rough dark crayon and bright macaron colour
 

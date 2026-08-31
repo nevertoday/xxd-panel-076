@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 076
+# 🦁 XXD Panel 076｜马卡龙蜡笔
 
 ### 用粗粝深色蜡笔与明亮马卡龙色块，把照片变成人文旅行记忆
 
