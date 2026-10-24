@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 076｜Macaron Crayon: reinterprets the key subject, pose and story of a photo as a rough dark-crayon sketch with Eastern-style whitespace — charcoal- and coloured-pencil-like lines that break, repeat and shift, with accurate proportion, direction and pose — plus a few matte gouache or acrylic patches showing paper tooth, waxy drag and bare paper, in bright, clear macaron colours drawn from the warmest, liveliest hints in the photo such as apricot, peach, coral, butter yellow, mint and sky blue; the subject sits in one area, at least about 45% of the image is one continuous calm blank, and small typewriter-style notes follow the subject's movement or the edge of the blank. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-076 or asks for crayon travel sketch, macaron-colour crayon or warm humanist travel-journal illustration from a photo.",
+  "short_description": "马卡龙蜡笔：用粗粝深色蜡笔和明亮马卡龙色块，把照片画成留白宽阔的人文旅行记忆",
+  "zh-CN": {
+    "name": "马卡龙蜡笔",
+    "tagline": "用粗粝的深色蜡笔和明亮的马卡龙色块，把照片画成一段有人情味的旅行记忆。",
+    "look": "主体用深色蜡笔、炭笔和彩铅般的粗线重新寻找形体，轮廓会断、会重复、会偏移，局部用短排线和擦蹭压出重量，但比例、方向和姿态是准的。少量哑光水粉或丙烯色块露着纸齿和蜡质摩擦，颜色取自照片里最温暖鲜活的线索，调成奶油杏、蜜桃粉、珊瑚橙、黄油黄、薄荷青、晴空蓝这类清透不甜腻的马卡龙色。主体集中在一处，至少约一半画面是一整块安静的留白，可以读作天空、水面或地面。小号打字机字沿着动势或留白边缘排开，像旅途中的观察笔记。",
+    "traits": [
+      "粗粝深色蜡笔",
+      "炭笔彩铅",
+      "哑光水粉",
+      "明亮马卡龙",
+      "45%连续留白",
+      "打字机观察注记"
+    ],
+    "good": [
+      "阳光下的旅行照片：地中海白房子、海边小镇、花墙下的街角",
+      "有人情味的生活瞬间：晾衣服的阳台、路边卖花的人、骑车经过的孩子",
+      "主体集中、天空或水面开阔的画面：海边的人、湖上的小船、山坡上的房子"
+    ],
+    "poor": [
+      "信息很满、没有空处的照片：拥挤人群、密集招牌、室内杂物",
+      "色调深暗或以土褐、暗绿为主的照片：森林深处、夜景、阴雨天",
+      "想要儿童蜡笔画、卡通、整洁数码笔刷或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Macaron Crayon",
+    "tagline": "Draws your photo as a warm travel memory in rough dark crayon and bright macaron colour.",
+    "look": "The subject is searched out again in rough dark crayon, charcoal and coloured-pencil-like lines that break, repeat and drift, with short hatching and smudges for weight, while proportion, direction and pose stay accurate. A few matte gouache or acrylic patches show paper tooth and waxy drag, in colours taken from the warmest, liveliest hints in the photo and turned into clear, not-too-sweet macaron tones such as cream apricot, peach pink, coral, butter yellow, mint and sky blue. The subject gathers in one area, and roughly half the image is one calm, unbroken blank that reads as sky, water or ground. Small typewriter notes follow the movement or the edge of the blank, like observations jotted on a trip.",
+    "traits": [
+      "Rough dark crayon",
+      "Charcoal and coloured pencil",
+      "Matte gouache",
+      "Bright macaron colour",
+      "45% continuous whitespace",
+      "Typewriter field notes"
+    ],
+    "good": [
+      "Sunny travel photos: white Mediterranean houses, a seaside town, a street corner under a wall of flowers",
+      "Warm everyday moments: a balcony with laundry, a roadside flower seller, a child cycling past",
+      "Scenes with a compact subject and open sky or water: a person by the sea, a small boat on a lake, a house on a hillside"
+    ],
+    "poor": [
+      "Photos packed with information and no open space: dense crowds, walls of shop signs, cluttered interiors",
+      "Dark photos dominated by earthy browns or deep greens: deep forest, night scenes, rainy days",
+      "Requests for a child's crayon drawing, cartoons, clean digital brushes or 3D"
+    ]
+  },
+  "ja": {
+    "name": "マカロンクレヨン",
+    "tagline": "写真を、粗い濃色クレヨンと明るいマカロン色で、人の温もりがある旅の記憶に描きます。",
+    "look": "主役は濃色クレヨン、木炭、色鉛筆のような粗い線で形を探り直します。輪郭は途切れ、重なり、ずれ、短いハッチングやこすりで重みを出しますが、比率、向き、姿勢は正確です。少しだけ置くマットな不透明水彩やアクリルの色面には紙の目やクレヨンのかすれが見え、色は写真のいちばん温かく生き生きした手がかりから取って、クリームアプリコット、ピーチピンク、コーラル、バターイエロー、ミント、晴れた空の青など、澄んで甘すぎないマカロン色にします。主役は一か所にまとまり、画面のおよそ半分は空や水面、地面にも見える一続きの静かな余白です。小さなタイプライター文字が動きや余白の縁に沿って並び、旅先の観察メモのようです。",
+    "traits": [
+      "粗い濃色クレヨン",
+      "木炭と色鉛筆",
+      "マットな不透明水彩",
+      "明るいマカロン色",
+      "45%の連続した余白",
+      "タイプライターの観察メモ"
+    ],
+    "good": [
+      "日差しの中の旅の写真：地中海の白い家、海辺の町、花の壁がある街角",
+      "人の温もりがある暮らしの瞬間：洗濯物の干されたバルコニー、道端の花売り、自転車で通り過ぎる子ども",
+      "主役がまとまり空や水面が開けた場面：海辺の人、湖の小舟、丘の上の家"
+    ],
+    "poor": [
+      "情報が詰まって空きのない写真：人混み、看板の密集、散らかった室内",
+      "暗い色調や土色・深緑が中心の写真：深い森、夜景、雨の日",
+      "子どものクレヨン画、漫画、きれいなデジタルブラシ、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "마카롱 크레용",
+    "tagline": "사진을 거친 짙은 크레용과 밝은 마카롱 색으로 사람 냄새 나는 여행의 기억으로 그립니다.",
+    "look": "주인공은 짙은 크레용, 목탄, 색연필 같은 거친 선으로 형태를 다시 더듬어 그립니다. 윤곽은 끊기고 겹치고 어긋나며, 짧은 해칭과 문지름으로 무게를 주지만 비율, 방향, 자세는 정확합니다. 조금만 들어가는 무광 과슈나 아크릴 색면에는 종이 결과 크레용의 긁힘이 보이고, 색은 사진에서 가장 따뜻하고 생기 있는 단서를 골라 크림 살구, 복숭아 핑크, 코랄, 버터 옐로, 민트, 맑은 하늘색처럼 맑고 지나치게 달지 않은 마카롱 색으로 만듭니다. 주인공은 한곳에 모이고, 화면의 대략 절반은 하늘이나 수면, 땅으로도 읽히는 이어진 조용한 여백입니다. 작은 타자기 글씨가 움직임이나 여백 가장자리를 따라 놓여 여행 중 적은 관찰 메모 같습니다.",
+    "traits": [
+      "거친 짙은 크레용",
+      "목탄과 색연필",
+      "무광 과슈",
+      "밝은 마카롱 색",
+      "45% 이어진 여백",
+      "타자기 관찰 메모"
+    ],
+    "good": [
+      "햇살 아래 여행 사진: 지중해의 하얀 집, 바닷가 마을, 꽃담 아래 골목",
+      "사람 냄새 나는 일상의 순간: 빨래 널린 발코니, 길가의 꽃 파는 사람, 자전거로 지나가는 아이",
+      "주인공이 모여 있고 하늘이나 수면이 트인 장면: 바닷가의 사람, 호수 위 작은 배, 언덕 위 집"
+    ],
+    "poor": [
+      "정보가 꽉 차 빈 곳이 없는 사진: 인파, 빽빽한 간판, 어수선한 실내",
+      "어둡거나 흙갈색·짙은 초록이 주를 이루는 사진: 깊은 숲, 야경, 비 오는 날",
+      "어린이 크레용 그림, 만화, 깔끔한 디지털 브러시, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أقلام شمعية بألوان الماكارون",
+    "tagline": "يرسم صورتك ذكرى سفر دافئة بقلم شمعي داكن خشن وألوان ماكرون مشرقة.",
+    "look": "يُعاد تلمّس شكل العنصر بخطوط خشنة من القلم الشمعي الداكن والفحم وأقلام التلوين، تنقطع وتتكرر وتنزاح، مع تظليل قصير ومسحات تضفي الثقل، بينما تبقى النسب والاتجاه والوضعية دقيقة. وتظهر في بقع قليلة من الغواش أو الأكريليك المطفأ حبيبات الورق وأثر الشمع، بألوان مأخوذة من أدفأ وأحيا الإشارات في الصورة، محوّلة إلى درجات ماكرون صافية غير مفرطة الحلاوة كالمشمشي الكريمي والوردي الخوخي والمرجاني والأصفر الزبدي والنعناعي وأزرق السماء. يتجمّع العنصر في منطقة واحدة، ويبقى نحو نصف الصورة فراغاً هادئاً متصلاً يُقرأ سماءً أو ماءً أو أرضاً. وتمتد ملاحظات صغيرة بحرف الآلة الكاتبة مع الحركة أو على حافة الفراغ، كمشاهدات دُوّنت في رحلة.",
+    "traits": [
+      "قلم شمعي داكن خشن",
+      "فحم وأقلام ملوّنة",
+      "غواش مطفأ",
+      "ألوان ماكرون مشرقة",
+      "فراغ متصل بنسبة 45%",
+      "ملاحظات ميدانية بالآلة الكاتبة"
+    ],
+    "good": [
+      "صور سفر مشمسة: بيوت متوسطية بيضاء، بلدة ساحلية، ناصية شارع تحت جدار من الزهور",
+      "لحظات يومية دافئة: شرفة عليها غسيل، بائع زهور على الرصيف، طفل يمرّ على دراجة",
+      "مشاهد بعنصر متجمّع وسماء أو ماء مفتوح: شخص قرب البحر، قارب صغير على بحيرة، بيت على سفح تلّ"
+    ],
+    "poor": [
+      "صور مكتظة بالمعلومات بلا مساحة فارغة: حشود كثيفة، جدران من اللافتات، غرف داخلية مزدحمة",
+      "صور قاتمة يغلب عليها البني الترابي أو الأخضر الداكن: أعماق الغابات، المشاهد الليلية، الأيام الماطرة",
+      "طلب رسم أطفال بأقلام الشمع أو رسوم كرتونية أو فرشاة رقمية نظيفة أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}
